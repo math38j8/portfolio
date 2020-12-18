@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+body {
+    font-family: helvetica, sans-serif;
+    background: #ffeced;
+}

@@ -1,0 +1,12 @@
+nav {
+    height: 50vh;
+    padding: 0.5rem;
+    padding-top: 20rem;
+
+    text-align: right;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
